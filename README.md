@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a 3rd year Computer Sceicne Major at UCI!  
+Checkout my [website](https://benjaminl4917.github.io/website-portfolio/)
 <!--
 **benjaminl4917/benjaminl4917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
