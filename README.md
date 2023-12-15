@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there! I'm Benji Lin, a 3rd year Computer Science Student at UCI!
 
-I'm a 3rd year Computer Sceicne Major at UCI!  
 Checkout my [website](https://benjaminl4917.github.io/website-portfolio/)
 <!--
 **benjaminl4917/benjaminl4917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
